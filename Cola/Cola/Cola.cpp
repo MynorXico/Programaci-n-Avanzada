@@ -12,7 +12,6 @@ struct nodo
 	struct nodo *siguiente;
 };
 
-
 /*                      Estructura de la cola
 ------------------------------------------------------------------------*/
 struct cola
@@ -20,7 +19,6 @@ struct cola
 	nodo *delante;
 	nodo *atras;
 };
-
 
 /*                        Encolar elemento
 ------------------------------------------------------------------------*/
@@ -42,17 +40,26 @@ void encolar(struct cola &NodoActual, int valor)
 
 /*                        Desencolar elemento
 ------------------------------------------------------------------------*/
-int desencolar(struct cola &NodoActual)
+void desencolar(struct cola &NodoActual)
 {
 	int num;
 	struct nodo *auxiliar;
 
 	auxiliar = NodoActual.delante;      // auxiliar apunta al inicio de la cola
-	num = auxiliar->numero;
-	NodoActual.delante = (NodoActual.delante)->siguiente;
-	delete(auxiliar);          // libera memoria a donde apuntaba auxiliar
 
-	return num;
+	if (auxiliar != NULL)
+	{
+		num = auxiliar->numero;
+		NodoActual.delante = (NodoActual.delante)->siguiente;
+		delete(auxiliar);          // libera memoria a donde apuntaba auxiliar
+		cout << "\n\n\t\tEl numero " << num << " se desencolo...\n\n";
+
+	}
+	else
+	{
+		cout << "  No tiene mas numeros para desencolar ";
+	}
+
 }
 
 /*                        Mostrar Cola
@@ -98,7 +105,7 @@ void menu()
 	cout << " 4. VACIAR COLA                           " << endl;
 	cout << " 5. SALIR                                 " << endl;
 
-	cout << "\n INGRESE opccionCION: ";
+	cout << "\n INGRESE OPCCION: ";
 }
 
 /*                        Funcion Principal
@@ -113,13 +120,12 @@ int main()
 
 	int dato;  // numero a encolar
 	int opccion;    // opccioncion del menu
-	int x;    // numero NodoActualue devuelve la funcon popccion
 
 	system("color 0b");
 
 	do
 	{
-		menu(); 
+		menu();
 		cin >> opccion;
 
 		switch (opccion)
@@ -134,8 +140,7 @@ int main()
 
 		case 2:
 
-			x = desencolar(NodoActual);
-			cout << "\n\n\t\tNumero " << x << " desencolado...\n\n";
+			desencolar(NodoActual);
 			break;
 
 
