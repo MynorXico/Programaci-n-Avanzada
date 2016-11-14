@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  ArbolBinario.cpp
+  ArbolBinarioBusqueda.cpp
+ArbolBinarioBusqueda.cpp(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: vea la declaración de 'scanf'
+ArbolBinarioBusqueda.cpp(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: vea la declaración de 'scanf'
+ArbolBinarioBusqueda.cpp(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: vea la declaración de 'scanf'
+  AssemblyInfo.cpp
+  Nodo.cpp
+  Generando código...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  ArbolBinario.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  ArbolBinarioBusqueda.vcxproj -> C:\Users\Diego Pérez Moir\Desktop\U\Programacion avanzada\ArbolBinarioBusqueda\Debug\ArbolBinarioBusqueda.exe
+  ArbolBinarioBusqueda.vcxproj -> C:\Users\Diego Pérez Moir\Desktop\U\Programacion avanzada\ArbolBinarioBusqueda\Debug\ArbolBinarioBusqueda.pdb (Partial PDB)
