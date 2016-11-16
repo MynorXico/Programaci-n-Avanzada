@@ -217,3 +217,57 @@ void ArbolBinario::EnOrden(Nodo *arbol)
 ArbolBinario::~ArbolBinario()
 {
 }
+void ArbolBinario::postOrden(Nodo *arbol)
+{
+
+	if (arbol != NULL)
+	{
+		if (arbol->izquierda)
+			EnOrden(arbol->izquierda);
+
+		
+		if (arbol->derecho)
+			EnOrden(arbol->derecho);
+		
+		printf("%d \n", arbol->Dato);
+		else
+		{
+			return;
+		}
+	}
+	else
+	{
+		printf("El arbol esta vacio \n");
+	}
+}
+void ArbolBinario::postOrden(Nodo *arbol)
+{
+
+	if (arbol != NULL)
+	{
+		printf("%d \n", arbol->Dato);
+		
+		if (arbol->izquierda)
+			EnOrden(arbol->izquierda);
+
+		
+		if (arbol->derecho)
+			EnOrden(arbol->derecho);
+		
+		else
+		{
+			return;
+		}
+	}
+	else
+	{
+		printf("El arbol esta vacio \n");
+	}
+}
+bool ArbolBinario::buscar(Nodo *arbol, int dato)
+{
+	if(arbol == NULL) return 0;
+	else if(arbol->dato < dato) return buscar(arbol->izquierda, dato);
+	else if(arbol->dato > dato) return buscar(arbol->derecha, dato);
+	else return 1;
+}
