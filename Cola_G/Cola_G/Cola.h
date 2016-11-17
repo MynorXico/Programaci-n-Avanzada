@@ -1,25 +1,32 @@
-#ifndef _PILA_H_
-#define _PILA_H_
+#ifndef _COLA_H_
+#define _COLA_H_
 
 #pragma once
 
-template <class T> struct nodo
+template <class T> class nodo
 {
+public:
 	T val;
 	nodo *sig;
+	nodo()
+	{
+	}
 };
 
 template <class T> class Cola
 {
 private:
-	nodo<T> *top;
 	nodo<T> *first;
 	nodo<T> *last;
 public:
 	Cola();
 	~Cola();
-	int Encolar(const T);
+	void Encolar(T);
+	T Listar();
+	void Desencolar();
+	void Vaciar();
+	T Buscar();
+	int vacio();
 
 };
 #endif
-

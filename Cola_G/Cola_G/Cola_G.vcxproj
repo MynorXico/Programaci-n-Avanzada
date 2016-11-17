@@ -137,6 +137,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Automovil.h" />
     <ClInclude Include="Cola.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="stdafx.h" />
@@ -146,6 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AssemblyInfo.cpp" />
+    <ClCompile Include="Automovil.cpp" />
     <ClCompile Include="Cola.cpp" />
     <ClCompile Include="Cola_G.cpp" />
     <ClCompile Include="stdafx.cpp">

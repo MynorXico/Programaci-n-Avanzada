@@ -1,0 +1,5 @@
+﻿  Cola_G.cpp
+d:\sebas\documents\programacion-avanzada\cola_g\cola_g\cola.cpp(68): warning C4715: 'Cola<Automovil>::Buscar': not all control paths return a value
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Cola_G.vcxproj -> D:\sebas\Documents\Programacion-Avanzada\Cola_G\x64\Debug\Cola_G.exe
+  Cola_G.vcxproj -> D:\sebas\Documents\Programacion-Avanzada\Cola_G\x64\Debug\Cola_G.pdb (Partial PDB)
