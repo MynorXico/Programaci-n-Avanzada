@@ -1,0 +1,9 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  ListaEnlazadaManejada.cpp
+  NodoManejado.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  ListaDinamicaManejada.vcxproj -> Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\Debug\ListaDinamicaManejada.dll
+  ListaDinamicaManejada.vcxproj -> Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\Debug\ListaDinamicaManejada.pdb (Partial PDB)

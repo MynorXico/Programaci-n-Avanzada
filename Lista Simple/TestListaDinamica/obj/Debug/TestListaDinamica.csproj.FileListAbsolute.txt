@@ -1,0 +1,40 @@
+\\vmware-host\Shared Folders\alvaroruano\Dropbox\Catedratico\2016 - Programación Avanzada\02 - Laboratorios\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\TestListaDinamica.exe.config
+\\vmware-host\Shared Folders\alvaroruano\Dropbox\Catedratico\2016 - Programación Avanzada\02 - Laboratorios\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\alvaroruano\Dropbox\Catedratico\2016 - Programación Avanzada\02 - Laboratorios\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.frmTestListaDinamica.resources
+\\vmware-host\Shared Folders\alvaroruano\Dropbox\Catedratico\2016 - Programación Avanzada\02 - Laboratorios\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.Properties.Resources.resources
+\\vmware-host\Shared Folders\alvaroruano\Dropbox\Catedratico\2016 - Programación Avanzada\02 - Laboratorios\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.csproj.GenerateResource.Cache
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\TestListaDinamica.exe.config
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\TestListaDinamica.exe
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\TestListaDinamica.pdb
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\ListaDinamica.dll
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\ListaDinamica.pdb
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.frmTestListaDinamica.resources
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.Properties.Resources.resources
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.csproj.GenerateResource.Cache
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.exe
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.pdb
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\ListaDinamicaManejada.dll
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\ListaDinamicaManejada.pdb
+Y:\4.Laboratorio\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.csprojResolveAssemblyReference.cache
+C:\Users\serdu\Desktop\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\TestListaDinamica.exe.config
+C:\Users\serdu\Desktop\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.exe
+C:\Users\serdu\Desktop\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.pdb
+C:\Users\serdu\Desktop\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\TestListaDinamica.exe
+C:\Users\serdu\Desktop\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\TestListaDinamica.pdb
+C:\Users\serdu\Desktop\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\ListaDinamicaManejada.dll
+C:\Users\serdu\Desktop\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\bin\Debug\ListaDinamicaManejada.pdb
+C:\Users\serdu\Desktop\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.csprojResolveAssemblyReference.cache
+C:\Users\serdu\Desktop\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.frmTestListaDinamica.resources
+C:\Users\serdu\Desktop\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.Properties.Resources.resources
+C:\Users\serdu\Desktop\Laboratorio 4 Ejemplo Lista Simplemente Enlazada\TestListaDinamica\obj\Debug\TestListaDinamica.csproj.GenerateResource.Cache
+C:\Users\serdu\Source\Repos\Programacion-Avanzada\Lista Simple\TestListaDinamica\bin\Debug\TestListaDinamica.exe.config
+C:\Users\serdu\Source\Repos\Programacion-Avanzada\Lista Simple\TestListaDinamica\obj\Debug\TestListaDinamica.exe
+C:\Users\serdu\Source\Repos\Programacion-Avanzada\Lista Simple\TestListaDinamica\obj\Debug\TestListaDinamica.pdb
+C:\Users\serdu\Source\Repos\Programacion-Avanzada\Lista Simple\TestListaDinamica\bin\Debug\TestListaDinamica.exe
+C:\Users\serdu\Source\Repos\Programacion-Avanzada\Lista Simple\TestListaDinamica\bin\Debug\TestListaDinamica.pdb
+C:\Users\serdu\Source\Repos\Programacion-Avanzada\Lista Simple\TestListaDinamica\bin\Debug\ListaDinamicaManejada.dll
+C:\Users\serdu\Source\Repos\Programacion-Avanzada\Lista Simple\TestListaDinamica\bin\Debug\ListaDinamicaManejada.pdb
+C:\Users\serdu\Source\Repos\Programacion-Avanzada\Lista Simple\TestListaDinamica\obj\Debug\TestListaDinamica.csprojResolveAssemblyReference.cache
+C:\Users\serdu\Source\Repos\Programacion-Avanzada\Lista Simple\TestListaDinamica\obj\Debug\TestListaDinamica.frmTestListaDinamica.resources
+C:\Users\serdu\Source\Repos\Programacion-Avanzada\Lista Simple\TestListaDinamica\obj\Debug\TestListaDinamica.Properties.Resources.resources
+C:\Users\serdu\Source\Repos\Programacion-Avanzada\Lista Simple\TestListaDinamica\obj\Debug\TestListaDinamica.csproj.GenerateResource.Cache
