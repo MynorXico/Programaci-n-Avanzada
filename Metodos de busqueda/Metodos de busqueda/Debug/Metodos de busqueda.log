@@ -1,0 +1,7 @@
+﻿  Metodos de busqueda.cpp
+c:\users\keviu\documents\ciclo 2\progra_avanzada\metodos de busqueda\metodos de busqueda\metodos de busqueda.cpp(23): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\keviu\documents\ciclo 2\progra_avanzada\metodos de busqueda\metodos de busqueda\metodos de busqueda.cpp(23): note: los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+  c:\users\keviu\documents\ciclo 2\progra_avanzada\metodos de busqueda\metodos de busqueda\metodos de busqueda.cpp(23): note: el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+  c:\users\keviu\documents\ciclo 2\progra_avanzada\metodos de busqueda\metodos de busqueda\metodos de busqueda.cpp(23): note: este argumento se utiliza como un tamaño de búfer
+  Metodos de busqueda.vcxproj -> C:\Users\keviu\Documents\Ciclo 2\Progra_avanzada\Metodos de busqueda\Debug\Metodos de busqueda.exe
+  Metodos de busqueda.vcxproj -> C:\Users\keviu\Documents\Ciclo 2\Progra_avanzada\Metodos de busqueda\Debug\Metodos de busqueda.pdb (Full PDB)
