@@ -1,4 +1,4 @@
-// Doubly Linked List.cpp: define el punto de entrada de la aplicación de consola.
+// Doubly Linked List.cpp: define el punto de entrada de la aplicaciÃ³n de consola.
 //
 
 #include "stdafx.h"
@@ -45,6 +45,18 @@ int main()
 	cin >> n1;
 	list->SearchByD(n1);
 
+	cout << "Ingrese dato para eliminar" << endl;
+	int n2;
+	cin >> n2;
+	list->Delete(n2);
+
+	cout << "Forward printing\n";
+	list->PrintF(list->head);
+	cout << "\n";
+
+	cout << "Backwards printing\n";
+	list->PrintB(list->end);
+	cout << "\n";
 	system("pause");
     return 0;
 }
