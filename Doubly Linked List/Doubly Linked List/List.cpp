@@ -81,3 +81,35 @@ void List::Sort()
 		}
 	}
 }
+void List::Delete(int d)
+{
+	Node *visit = head;
+	Node *deleted = new Node();
+	while (visit != nullptr)
+	{
+		if (visit->data == d)
+		{
+			deleted = visit;
+			if (visit == head)
+			{
+				head = head->next;
+				head->previous = nullptr;
+			}
+			else if (visit == end)
+			{
+				end = end->previous;
+				end->next = nullptr;
+			}
+			else
+			{
+				Node *before = visit->previous;
+				Node *after = visit->next;
+				before->next = visit->next;
+				after->previous = visit->previous;
+			}
+		}
+		visit = visit->next;
+	}
+	delete deleted;
+	delete visit;
+}
