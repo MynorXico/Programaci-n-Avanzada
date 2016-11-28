@@ -16,7 +16,7 @@ namespace TestListaDinamica
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmTestListaDinamica());
+            Application.Run(new frmListaDinamica());
         }
     }
 }

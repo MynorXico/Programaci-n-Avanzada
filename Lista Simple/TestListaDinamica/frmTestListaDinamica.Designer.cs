@@ -1,6 +1,6 @@
 ﻿namespace TestListaDinamica
 {
-    partial class frmTestListaDinamica
+    partial class frmListaDinamica
     {
         /// <summary>
         /// Required designer variable.
@@ -43,7 +43,7 @@
             // 
             this.btnInstanciar.Location = new System.Drawing.Point(46, 34);
             this.btnInstanciar.Name = "btnInstanciar";
-            this.btnInstanciar.Size = new System.Drawing.Size(124, 23);
+            this.btnInstanciar.Size = new System.Drawing.Size(396, 23);
             this.btnInstanciar.TabIndex = 0;
             this.btnInstanciar.Text = "Instanciar";
             this.btnInstanciar.UseVisualStyleBackColor = true;
@@ -51,9 +51,9 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(180, 73);
+            this.btnAgregar.Location = new System.Drawing.Point(307, 72);
             this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(124, 23);
+            this.btnAgregar.Size = new System.Drawing.Size(135, 23);
             this.btnAgregar.TabIndex = 1;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
@@ -63,21 +63,21 @@
             // 
             this.txtAgregar.Location = new System.Drawing.Point(46, 75);
             this.txtAgregar.Name = "txtAgregar";
-            this.txtAgregar.Size = new System.Drawing.Size(124, 20);
+            this.txtAgregar.Size = new System.Drawing.Size(238, 20);
             this.txtAgregar.TabIndex = 2;
             // 
             // txtEliminarEnPosicion
             // 
             this.txtEliminarEnPosicion.Location = new System.Drawing.Point(46, 200);
             this.txtEliminarEnPosicion.Name = "txtEliminarEnPosicion";
-            this.txtEliminarEnPosicion.Size = new System.Drawing.Size(124, 20);
+            this.txtEliminarEnPosicion.Size = new System.Drawing.Size(238, 20);
             this.txtEliminarEnPosicion.TabIndex = 4;
             // 
             // btnEliminarEnPosicion
             // 
-            this.btnEliminarEnPosicion.Location = new System.Drawing.Point(180, 198);
+            this.btnEliminarEnPosicion.Location = new System.Drawing.Point(307, 197);
             this.btnEliminarEnPosicion.Name = "btnEliminarEnPosicion";
-            this.btnEliminarEnPosicion.Size = new System.Drawing.Size(124, 23);
+            this.btnEliminarEnPosicion.Size = new System.Drawing.Size(135, 23);
             this.btnEliminarEnPosicion.TabIndex = 3;
             this.btnEliminarEnPosicion.Text = "Eliminar En Posición";
             this.btnEliminarEnPosicion.UseVisualStyleBackColor = true;
@@ -87,7 +87,7 @@
             // 
             this.btnObtenerLongitud.Location = new System.Drawing.Point(46, 116);
             this.btnObtenerLongitud.Name = "btnObtenerLongitud";
-            this.btnObtenerLongitud.Size = new System.Drawing.Size(124, 23);
+            this.btnObtenerLongitud.Size = new System.Drawing.Size(396, 23);
             this.btnObtenerLongitud.TabIndex = 6;
             this.btnObtenerLongitud.Text = "Obtener Longitud";
             this.btnObtenerLongitud.UseVisualStyleBackColor = true;
@@ -97,14 +97,14 @@
             // 
             this.txtObtenerEnPosicion.Location = new System.Drawing.Point(46, 158);
             this.txtObtenerEnPosicion.Name = "txtObtenerEnPosicion";
-            this.txtObtenerEnPosicion.Size = new System.Drawing.Size(124, 20);
+            this.txtObtenerEnPosicion.Size = new System.Drawing.Size(238, 20);
             this.txtObtenerEnPosicion.TabIndex = 8;
             // 
             // btnObtenerEnPosicion
             // 
-            this.btnObtenerEnPosicion.Location = new System.Drawing.Point(180, 156);
+            this.btnObtenerEnPosicion.Location = new System.Drawing.Point(307, 155);
             this.btnObtenerEnPosicion.Name = "btnObtenerEnPosicion";
-            this.btnObtenerEnPosicion.Size = new System.Drawing.Size(124, 23);
+            this.btnObtenerEnPosicion.Size = new System.Drawing.Size(135, 23);
             this.btnObtenerEnPosicion.TabIndex = 7;
             this.btnObtenerEnPosicion.Text = "Obtener En Posicion";
             this.btnObtenerEnPosicion.UseVisualStyleBackColor = true;
@@ -114,17 +114,17 @@
             // 
             this.btnVerLista.Location = new System.Drawing.Point(46, 241);
             this.btnVerLista.Name = "btnVerLista";
-            this.btnVerLista.Size = new System.Drawing.Size(124, 23);
+            this.btnVerLista.Size = new System.Drawing.Size(396, 23);
             this.btnVerLista.TabIndex = 9;
             this.btnVerLista.Text = "Ver Lista";
             this.btnVerLista.UseVisualStyleBackColor = true;
             this.btnVerLista.Click += new System.EventHandler(this.btnVerLista_Click);
             // 
-            // frmTestListaDinamica
+            // frmListaDinamica
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(351, 298);
+            this.ClientSize = new System.Drawing.Size(505, 298);
             this.Controls.Add(this.btnVerLista);
             this.Controls.Add(this.txtObtenerEnPosicion);
             this.Controls.Add(this.btnObtenerEnPosicion);
@@ -135,8 +135,9 @@
             this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.btnInstanciar);
             this.MaximizeBox = false;
-            this.Name = "frmTestListaDinamica";
-            this.Text = "Test Lista Dinámica";
+            this.Name = "frmListaDinamica";
+            this.Text = "Lista Dinámica";
+            this.Load += new System.EventHandler(this.frmListaDinamica_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

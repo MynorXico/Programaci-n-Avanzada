@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace TestListaDinamica
 {
-    public partial class frmTestListaDinamica : Form
+    public partial class frmListaDinamica : Form
     {
         
         ListaEnlazadaManejada listaEnlazadaManejada = null;
 
-        public frmTestListaDinamica()
+        public frmListaDinamica()
         {
             InitializeComponent();
         }
@@ -123,6 +123,11 @@ namespace TestListaDinamica
             {
                 MostrarMensajeError(ex);
             }
+        }
+
+        private void frmListaDinamica_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
