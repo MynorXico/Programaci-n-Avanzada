@@ -1,0 +1,5 @@
+﻿  EjPila.cpp
+c:\users\diego\desktop\ejpila\ejpila\ejpila.cpp(16): warning C4700: uninitialized local variable 'nuevoNodo' used
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  EjPila.vcxproj -> C:\Users\Diego\Desktop\EjPila\Debug\EjPila.exe
+  EjPila.vcxproj -> C:\Users\Diego\Desktop\EjPila\Debug\EjPila.pdb (Partial PDB)
