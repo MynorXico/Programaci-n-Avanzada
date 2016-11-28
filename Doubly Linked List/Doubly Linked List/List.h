@@ -13,6 +13,7 @@ public:
 	void PrintB(Node *end);
 	void SearchByD(int d);
 	void Sort();
+	void Delete(int);
 	~List();
 };
 
